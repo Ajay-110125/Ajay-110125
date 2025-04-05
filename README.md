@@ -20,8 +20,8 @@
 
 #### **🛠 Programming**  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-4479A1?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=MySQL&logoColor=white" />
 </p>
 
 #### **🛠 Data Analysis & Visualization**  

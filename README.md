@@ -26,23 +26,23 @@
 
 #### **🛠 Data Analysis & Visualization**  
 <p align="center">
-  <img src="https://img.shields.io/badge/Excel-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-4479A1?style=for-the-badge&logo=Excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-336791?style=for-the-badge&logo=SQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 #### **📊 Data Science & Machine Learning**  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-FF6F00?style=for-the-badge&logo=Numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-EE4C2C?style=for-the-badge&logo=Pandas&logoColor=white" />
 </p>
 
 #### **🛠 Frontend Web Technologies**  
 <p align="center">
-  <img src="https://img.shields.io/badge/Html5-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Html5-4479A1?style=for-the-badge&logo=Html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-336791?style=for-the-badge&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-336791?style=for-the-badge&logo=JavaScript&logoColor=white" />
 </p>
 
 ---

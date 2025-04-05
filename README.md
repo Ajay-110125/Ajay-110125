@@ -1,5 +1,8 @@
-# About Me:
-Hi  👋, I'm Ajay  Vatupalli<br>Expertise in Data Analytics | Business Analyst | Front-End Web Development | <br>Technology Strategist Focused on Artificial Intelligence & Data-Driven Solutions<br><br>🚀 About Me<br><br>💡 I specialize in:  Data Analytics, Data Cleaning, Data Modeling, Business Analyst, Frontend Web Development.<br>🔭 Current Focus: Building interactive dashboards.<br>🌱 Learning:  Data Science, Generative ai.<br>👯 Looking to collaborate on: AI-powered products,  Gen AI research projects.<br><br><br>
+Hi  👋, I'm Ajay  Vatupalli<br>Expertise in Data Analytics | Business Analyst | Front-End Web Development | <br>Technology Strategist Focused on Artificial Intelligence & Data-Driven Solutions<br><br>
+
+
+
+🚀 About Me<br><br>💡 I specialize in:  Data Analytics, Data Cleaning, Data Modeling, Business Analyst, Frontend Web Development.<br>🔭 Current Focus: Building interactive dashboards.<br>🌱 Learning:  Data Science, Generative ai.<br>👯 Looking to collaborate on: AI-powered products,  Gen AI research projects.<br><br><br>
 
 
 ## 🌐 Socials:

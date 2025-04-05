@@ -76,4 +76,6 @@
 
 ---
 
-⭐ **Fun Fact:** *I love automating things, exploring AI solutions, and building impactful data-driven applications!*
+✍️ **Random Dev Quote:** *  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  *
+
+

@@ -25,21 +25,11 @@
   <img src="https://img.shields.io/badge/Pandas-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
-#### **🤖 Generative AI & LLMs**  
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMs%20-%23E4405F.svg?&style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-F7E018?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-4285F4?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector%20Databases-0052CC?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-017CEE?style=for-the-badge&logo=facebook&logoColor=white" />
-</p>
-
 #### **🛠 Data Analysis & Visualization**  
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
 ---

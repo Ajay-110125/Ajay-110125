@@ -12,7 +12,7 @@
 - 🔭 **Current Focus:** Building interactive Dashboards and Frontend Applications.  
 - 🌱 **Learning:** Data Science , Generative AI, MLOps.  
 - 👯 **Looking to collaborate on:** AI-powered products,  ML & Gen AI research projects.  
-- 📫 **Reach me on:** [LinkedIn](https://www.linkedin.com/in/ajayvatupalli),[Website](https://ajay-110125.github.io/personal_portfolio/)   
+- 📫 **Reach me on:** [LinkedIn](https://www.linkedin.com/in/ajayvatupalli),    [Website](https://ajay-110125.github.io/personal_portfolio/)   
 
 ---
 
